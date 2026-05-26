@@ -1,0 +1,2 @@
+# Python Essentials Coursework
+A curated collection of Python exercises and independent projects completed as part of the Python Essentials Pathway on Plural Sight. This repository highlights my commitment to self-directed learning and practical application of foundational Python programming concepts.
